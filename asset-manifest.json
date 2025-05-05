@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pesco/static/css/main.2bc8898d.css",
+    "main.js": "/pesco/static/js/main.a44666e0.js",
+    "static/js/453.59542384.chunk.js": "/pesco/static/js/453.59542384.chunk.js",
+    "index.html": "/pesco/index.html",
+    "main.2bc8898d.css.map": "/pesco/static/css/main.2bc8898d.css.map",
+    "main.a44666e0.js.map": "/pesco/static/js/main.a44666e0.js.map",
+    "453.59542384.chunk.js.map": "/pesco/static/js/453.59542384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc8898d.css",
+    "static/js/main.a44666e0.js"
+  ]
+}
